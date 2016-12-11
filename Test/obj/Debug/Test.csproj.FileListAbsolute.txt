@@ -1,0 +1,7 @@
+H:\Users\Miki\Documents\Visual Studio 2012\Projects\Test\Test\bin\Debug\Test.exe.config
+H:\Users\Miki\Documents\Visual Studio 2012\Projects\Test\Test\bin\Debug\Test.exe
+H:\Users\Miki\Documents\Visual Studio 2012\Projects\Test\Test\bin\Debug\Test.pdb
+H:\Users\Miki\Documents\Visual Studio 2012\Projects\Test\Test\bin\Debug\OzekiSDK.dll
+H:\Users\Miki\Documents\Visual Studio 2012\Projects\Test\Test\obj\Debug\Test.exe
+H:\Users\Miki\Documents\Visual Studio 2012\Projects\Test\Test\obj\Debug\Test.pdb
+H:\Users\Miki\Documents\Visual Studio 2012\Projects\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
